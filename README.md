@@ -8,9 +8,9 @@ Este repositorio contiene la resolución de las **Actividades Prácticas de la U
 * **Asignatura:** Programación Orientada a Objetos (POO)
 * **Profesor:** Ing. Yadira Franco MSc.
 * **Período Académico:** 2026-A
-* **Documento:** DEBER 1
+* **Documento:** DEBER 9
 * **Título:** TAREA - Unidad 3: Manejo de Excepciones y Conversión de Datos en Java
-* **Estudiante:** [Tu Nombre Completo]
+* **Estudiante:** Francisco Lanche
 
 ---
 
